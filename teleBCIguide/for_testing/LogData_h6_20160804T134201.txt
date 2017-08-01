@@ -1,0 +1,26 @@
+
+6
+Calibrate Eye Tracker
+4
+SYSTEM RESET
+0
+TeleBCI User Guide
+16
+Calibrate Eye Tracker
+2
+Apply Cap
+2
+Apply Electrodes
+4
+OpenBCI2000
+3
+Check Impedances
+3
+Perform a P300 Run
+2
+Perform a P300 Run
+1
+Update Classifier
+2
+Clean System
+1

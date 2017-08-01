@@ -1,0 +1,24 @@
+mcc -C -o teleBCIguide -W WinMain:teleBCIguide -T link:exe -d 'C:\Users\BCIcomputer01\Box Sync\Hershey_2016\ALSA teleBCI\Software\MatlabGUI\teleBCIguide\for_testing' -v 'C:\Users\BCIcomputer01\Box Sync\Hershey_2016\ALSA teleBCI\Software\MatlabGUI\teleBCI.m' -a 'C:\Users\BCIcomputer01\Box Sync\Hershey_2016\ALSA teleBCI\Software\MatlabGUI\GUIImages' 
+Compiler version: 6.1 (R2015b)
+
+Dependency analysis by REQUIREMENTS.
+
+[Warning: Adding path "C:\Users\BCIcomputer01\Box Sync\Hershey_2016\ALSA
+teleBCI\Software\MatlabGUI" to Compiler path instance.] 
+[] 
+Parsing file "C:\Users\BCIcomputer01\Box Sync\Hershey_2016\ALSA teleBCI\Software\MatlabGUI\teleBCI.m"
+	(Referenced from: "Compiler Command Line").
+Deleting 4 temporary MEX authorization files.
+Removing: 'C:\Users\BCICOM~1\AppData\Local\Temp\mathworks_tmp_003bc14637_956.auth'.
+Removing: 'C:\Users\BCICOM~1\AppData\Local\Temp\mathworks_tmp_003bc19440_956.auth'.
+Removing: 'C:\Users\BCICOM~1\AppData\Local\Temp\mathworks_tmp_003bc11395_956.auth'.
+Removing: 'C:\Users\BCICOM~1\AppData\Local\Temp\mathworks_tmp_003bc2981_956.auth'.
+Generating file "C:\Users\BCIcomputer01\Box Sync\Hershey_2016\ALSA teleBCI\Software\MatlabGUI\teleBCIguide\for_testing\readme.txt".
+Packaging...
+Adding custom icon C:\Users\BCIcomputer01\Box Sync\Hershey_2016\ALSA teleBCI\Software\MatlabGUI\teleBCIguide_resources\icon.ico to C:\Users\BCIcomputer01\Box Sync\Hershey_2016\ALSA teleBCI\Software\MatlabGUI\teleBCIguide\for_testing\teleBCIguide.exe.
+Attempting to embed the CTF archive into the application C:\Users\BCIcomputer01\Box Sync\Hershey_2016\ALSA teleBCI\Software\MatlabGUI\teleBCIguide\for_testing\teleBCIguide.exe.
+Finished embedding CTF archive. Deleting the external CTF archive.
+Creating the bundle...
+Web based installer created at C:\Users\BCIcomputer01\Box Sync\Hershey_2016\ALSA teleBCI\Software\MatlabGUI\teleBCIguide\for_redistribution\teleBCIguide_Installer.exe.
+Packaging complete.
+Elapsed packaging time was: 52 seconds.

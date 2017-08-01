@@ -1,0 +1,50 @@
+
+0
+TeleBCI User Guide
+6
+TeleBCI User Guide
+1
+TeleBCI User Guide
+1
+TeleBCI User Guide
+1
+TeleBCI User Guide
+1
+SYSTEM RESET
+0
+TeleBCI User Guide
+1
+Apply Cap
+1
+Launch Adobe Connect
+0
+Apply Electrodes
+0
+Check Impedances
+0
+Update Classifier
+3
+OpenBCI2000
+0
+Calibrate Eye Tracker
+0
+Turn on the Computer
+1
+Perform a P300 Run
+0
+SYSTEM RESET
+0
+TeleBCI User Guide
+0
+Clean System
+0
+Perform a P300 Run
+0
+OpenBCI2000
+0
+Apply Cap
+0
+Launch Adobe Connect
+0
+Turn on the Computer
+3

@@ -1,0 +1,16 @@
+
+4
+Turn on the Computer
+1
+Launch Adobe Connect
+3
+Calibrate Eye Tracker
+3
+Apply Cap
+2
+Apply Electrodes
+2
+OpenBCI2000
+3
+Check Impedances
+5

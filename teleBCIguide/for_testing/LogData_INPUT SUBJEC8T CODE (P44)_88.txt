@@ -1,0 +1,8 @@
+
+14
+Turn on the Computer
+1
+Launch Adobe Connect
+1
+Calibrate Eye Tracker
+35

@@ -1,0 +1,22 @@
+
+7
+Turn on the Computer
+3
+Launch Adobe Connect
+5
+Calibrate Eye Tracker
+11
+Apply Cap
+5
+Apply Electrodes
+2
+OpenBCI2000
+8
+Check Impedances
+4
+Perform a P300 Run
+6
+Update Classifier
+5
+Clean System
+3
